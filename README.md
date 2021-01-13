@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Contact: https://www.linkedin.com/in/filipiakdariusz/
+Contact: darekf77@icloud.com
 
 
 Summary: https://stackoverflow.com/users/story/1345101
