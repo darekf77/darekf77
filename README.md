@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-Contact: darekf77@icloud.com
-
+Contact: https://mycrd.is/darekf77
 
 Summary: https://stackoverflow.com/users/story/1345101
 <!--
