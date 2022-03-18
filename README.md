@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Contact: https://mycrd.is/darekf77
+Contact: dariusz@firedev.io
 
 Summary: https://stackoverflow.com/users/story/1345101
 <!--
