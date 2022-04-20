@@ -2,10 +2,12 @@
 
 Contact: dariusz@firedev.io
 
+Summary: https://www.linkedin.com/in/filipiakdariusz/
+
 <!--
 **darekf77/darekf77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Summary: https://www.linkedin.com/in/filipiakdariusz/
+
 
 Here are some ideas to get you started:
 
