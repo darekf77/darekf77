@@ -4,6 +4,8 @@ Contact: dariusz@firedev.io
 
 Summary: https://www.linkedin.com/in/filipiakdariusz/
 
+https://stackoverflow.com/users/1345101/dariusz-filipiak
+
 <!--
 **darekf77/darekf77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
