@@ -6,6 +6,10 @@ Summary: https://www.linkedin.com/in/filipiakdariusz/
 
 https://stackoverflow.com/users/1345101/dariusz-filipiak
 
+My blog posts:
+- https://codete.com/blog/rx-js-quick-introduction-with-examples-for-beginner-level-angular-developers
+
+
 <!--
 **darekf77/darekf77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
