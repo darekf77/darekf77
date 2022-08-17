@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=darekf77&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
+  
+</p>
