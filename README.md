@@ -5,6 +5,7 @@ Contact: dariusz@firedev.io
 Summary: https://www.linkedin.com/in/filipiakdariusz/
 
 https://stackoverflow.com/users/1345101/dariusz-filipiak
+
 https://superuser.com/users/469101/dariusz-filipiak
 
 My blog posts:
