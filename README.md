@@ -10,6 +10,7 @@ https://superuser.com/users/469101/dariusz-filipiak
 
 My blog posts:
 - https://codete.com/blog/rx-js-quick-introduction-with-examples-for-beginner-level-angular-developers
+- https://codete.com/blog/ngrx-quick-introduction
 
 
 <!--
