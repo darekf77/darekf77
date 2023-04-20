@@ -12,6 +12,12 @@ My blog posts:
 - https://codete.com/blog/rx-js-quick-introduction-with-examples-for-beginner-level-angular-developers
 - https://codete.com/blog/ngrx-quick-introduction
 
+My open source projects:
+- https://firedev.io
+- https://codete.github.io/codete-rxjs-quick-start
+- https://codete.github.io/codete-ngrx-quick-start
+- https://darekf77.github.io/bs4-breakpoint
+
 
 <!--
 **darekf77/darekf77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
