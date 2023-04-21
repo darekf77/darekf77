@@ -16,7 +16,6 @@ My open source projects:
 - https://firedev.io
 - https://codete.github.io/codete-rxjs-quick-start
 - https://codete.github.io/codete-ngrx-quick-start
-- https://darekf77.github.io/bs4-breakpoint
 
 
 <!--
