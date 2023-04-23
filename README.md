@@ -12,7 +12,7 @@ My blog posts:
 - https://codete.com/blog/rx-js-quick-introduction-with-examples-for-beginner-level-angular-developers
 - https://codete.com/blog/ngrx-quick-introduction
 
-My open source projects:
+My open source projects (Angular PWA-s with TypeORM/SQL.js backend in browser):
 - https://firedev.io
 - https://codete.github.io/codete-rxjs-quick-start
 - https://codete.github.io/codete-ngrx-quick-start
