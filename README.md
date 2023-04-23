@@ -15,10 +15,7 @@ My blog posts:
 My open source projects:
 - https://firedev.io
 - https://codete.github.io/codete-rxjs-quick-start
-  (Firedev/PWA/Angular/TypeOrm/SQL.js/RxJS/RWD)
 - https://codete.github.io/codete-ngrx-quick-start
-  (Firedev/PWA/Angular/TypeOrm/SQL.js/RxJS/NgRx/RWD)
-
 
 <!--
 **darekf77/darekf77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
