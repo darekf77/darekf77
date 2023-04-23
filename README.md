@@ -14,8 +14,8 @@ My blog posts:
 
 My open source projects:
 - https://firedev.io
-- https://codete.github.io/codete-rxjs-quick-start (PWA)
-- https://codete.github.io/codete-ngrx-quick-start  (PWA)
+- https://codete.github.io/codete-rxjs-quick-start (Firedev/PWA/Angular/TypeOrm/SQL.js/RxJS)
+- https://codete.github.io/codete-ngrx-quick-start  (Firedev/PWA/Angular/TypeOrm/SQL.js/RxJS/NgRx)
 
 
 <!--
