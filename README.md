@@ -16,7 +16,7 @@ My blog posts:
 - https://codete.com/blog/ngrx-quick-introduction
 
 My open source projects (Angular PWA-s with TypeORM/SQL.js backend in browser):
-- https://firedev.io
+- https://firedev.io (Angular v16, RxJS)
 - https://darekf77.github.io/application-quiz (Angular v16, NgRx, NgRx Router, TypeOrm)
 - https://codete.github.io/codete-rxjs-quick-start  (Angular v16, RxJS)
 - https://codete.github.io/codete-ngrx-quick-start (Angular v16, NgRx, TypeOrm)
