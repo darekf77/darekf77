@@ -12,8 +12,8 @@ https://superuser.com/users/469101/dariusz-filipiak
 
 
 My blog posts:
-- https://codete.com/blog/rx-js-quick-introduction-with-examples-for-beginner-level-angular-developers
-- https://codete.com/blog/ngrx-quick-introduction
+- https://web.archive.org/web/20230329031539/https://codete.com/blog/rx-js-quick-introduction-with-examples-for-beginner-level-angular-developers
+- https://web.archive.org/web/20230329031539/https://codete.com/blog/ngrx-quick-introduction
 
 My open source projects (Angular PWA-s with TypeORM/SQL.js backend in browser):
 - https://firedev.io (Angular v16, RxJS)
