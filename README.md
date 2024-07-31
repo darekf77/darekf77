@@ -16,7 +16,13 @@ My blog posts:
 - [NgRx Quick Introduction](https://web.archive.org/web/20230329031539/https://codete.com/blog/ngrx-quick-introduction)
 
 My open source projects (Angular PWA-s with TypeORM/SQL.js backend in browser):
-- https://firedev.io (Angular v16, RxJS)
+- https://firedev.io (Angular v16, RxJS) (github projects boards below)
+  + [Firedev / CLI](https://github.com/users/darekf77/projects/6)
+  + [Firedev / Cloud Service](https://github.com/users/darekf77/projects/4)
+  + [Firedev / Framework & UI](https://github.com/users/darekf77/projects/4)
+  + [Firedev / Desktop App](https://github.com/users/darekf77/projects/11)
+  + [Firedev / Auth & Payments](https://github.com/users/darekf77/projects/14)
+  
 - https://darekf77.github.io/application-quiz (Angular v16, NgRx, NgRx Router, TypeOrm)
 - https://codete.github.io/codete-rxjs-quick-start  (Angular v16, RxJS)
 - https://codete.github.io/codete-ngrx-quick-start (Angular v16, NgRx, TypeOrm)
