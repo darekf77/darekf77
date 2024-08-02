@@ -17,11 +17,11 @@ My blog posts:
 
 My open source projects (Angular PWA-s with TypeORM/SQL.js backend in browser):
 - https://firedev.io (Angular v16, RxJS) (github projects boards below)
-  + [Firedev / CLI](https://github.com/users/darekf77/projects/6)
-  + [Firedev / Cloud Service](https://github.com/users/darekf77/projects/4)
-  + [Firedev / Framework & UI](https://github.com/users/darekf77/projects/4)
-  + [Firedev / Desktop App](https://github.com/users/darekf77/projects/11)
-  + [Firedev / Auth & Payments](https://github.com/users/darekf77/projects/14)
+  + [Firedev / CLI](https://github.com/users/darekf77/projects/6): CLI for handling isomorphic TypeScript projects as simply as possible.
+  + [Firedev / Cloud Service](https://github.com/users/darekf77/projects/4): Open-source isomorphic cloud service (similar to Firebase, Azure, AWS - but using only isomorphic code).
+  + [Firedev / Framework & UI](https://github.com/users/darekf77/projects/4): Elegant TypeScript framework for isomorphic code.
+  + [Firedev / Desktop App](https://github.com/users/darekf77/projects/11): Desktop app for local development, testing, and releasing.
+  + [Firedev / Auth & Payments](https://github.com/users/darekf77/projects/14): Base modules for isomorphic online business applications.
   
 - https://darekf77.github.io/application-quiz (Angular v16, NgRx, NgRx Router, TypeOrm)
 - https://codete.github.io/codete-rxjs-quick-start  (Angular v16, RxJS)
