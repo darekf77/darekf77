@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Contact: dariusz@firedev.io
+<!-- Contact: dariusz@taon.dev -->
 
 Summary: https://www.linkedin.com/in/filipiakdariusz/
 
@@ -8,20 +8,17 @@ https://stackoverflow.com/users/1345101/dariusz-filipiak
 
 https://superuser.com/users/469101/dariusz-filipiak
 
-<!-- [CV_EN_DARIUSZ_FILIPIAK_2023.pdf](https://github.com/darekf77/darekf77/files/11592728/CV_EN_DARIUSZFILIPIAK_2023.pdf) -->
-
-
 My blog posts:
 - [RxJs Quick Introduction With Examples For Beginner Level Angular Developers](https://web.archive.org/web/20230329031539/https://codete.com/blog/rx-js-quick-introduction-with-examples-for-beginner-level-angular-developers)
 - [NgRx Quick Introduction](https://web.archive.org/web/20230329031539/https://codete.com/blog/ngrx-quick-introduction)
 
 My open source projects (Angular PWA-s with TypeORM/SQL.js backend in browser):
-- https://firedev.io (Angular v16, RxJS) (github projects boards below)
-  + [Firedev / CLI](https://github.com/users/darekf77/projects/6): CLI for handling isomorphic TypeScript projects as simply as possible.
-  + [Firedev / Cloud Service](https://github.com/users/darekf77/projects/7): Open-source isomorphic cloud service (similar to Firebase, Azure, AWS - but using only isomorphic code).
-  + [Firedev / Framework & UI](https://github.com/users/darekf77/projects/4): Elegant TypeScript framework for isomorphic code.
-  + [Firedev / Desktop App](https://github.com/users/darekf77/projects/11): Desktop app for local development, testing, and releasing.
-  + [Firedev / Auth & Payments](https://github.com/users/darekf77/projects/14): Base modules for isomorphic online business applications.
+- https://taon.dev (Angular v18, RxJS) (github projects boards below)
+  + [Taon / CLI](https://github.com/users/darekf77/projects/6): CLI for handling isomorphic TypeScript projects as simply as possible.
+  + [Taon / Cloud Service](https://github.com/users/darekf77/projects/7): Open-source isomorphic cloud service (similar to Firebase, Azure, AWS - but using only isomorphic code).
+  + [Taon / Framework & UI](https://github.com/users/darekf77/projects/4): Elegant TypeScript framework for isomorphic code.
+  + [Taon / Desktop App](https://github.com/users/darekf77/projects/11): Desktop app for local development, testing, and releasing.
+  + [Taon / Auth & Payments](https://github.com/users/darekf77/projects/14): Base modules for isomorphic online business applications.
   
 - https://darekf77.github.io/application-quiz (Angular v16, NgRx, NgRx Router, TypeOrm)
 - https://codete.github.io/codete-rxjs-quick-start  (Angular v16, RxJS)
