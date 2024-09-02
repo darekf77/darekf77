@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- Contact: dariusz@taon.dev -->
+Contact: dariusz@taon.dev 
 
 Summary: https://www.linkedin.com/in/filipiakdariusz/
 
