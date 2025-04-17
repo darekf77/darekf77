@@ -13,11 +13,13 @@ My blog posts:
 - [NgRx Quick Introduction](https://web.archive.org/web/20230329031539/https://codete.com/blog/ngrx-quick-introduction)
 
 My open source projects:
-- https://taon.dev Framework/Cli/Cloud ([github project board](https://github.com/users/darekf77/projects/18), already 50k lines of open source code)
+- [Taon.dev](https://taon.dev) - Framework/Cli/Cloud 
     + CLI for handling isomorphic TypeScript projects as simply as possible (with VSCode integration).
     + Open-source isomorphic cloud-service with electron app for local development.
     + Elegant TypeScript framework for isomorphic code.
     + Base modules for isomorphic online business applications/services.
+    + 7 years of my Isomorphic TypeScirpt research (already 50k lines of open source code)
+    + [Github project board](https://github.com/users/darekf77/projects/18)
   
 - https://darekf77.github.io/application-quiz (Angular v16, NgRx, NgRx Router, TypeOrm sql.js backend in browser)
 - https://codete.github.io/codete-rxjs-quick-start  (Angular v16, RxJS)
