@@ -12,16 +12,16 @@ My blog posts:
 - [RxJs Quick Introduction With Examples For Beginner Level Angular Developers](https://web.archive.org/web/20230329031539/https://codete.com/blog/rx-js-quick-introduction-with-examples-for-beginner-level-angular-developers)
 - [NgRx Quick Introduction](https://web.archive.org/web/20230329031539/https://codete.com/blog/ngrx-quick-introduction)
 
-My open source projects (Angular PWA-s with TypeORM/SQL.js backend in browser):
-- https://taon.dev (Angular v18, RxJS) (github projects boards below)
-  + [Taon / CLI & VSCode Ext ](https://github.com/users/darekf77/projects/6): CLI for handling isomorphic TypeScript projects as simply as possible (with VSCode integration).
-  + [Taon / Cloud Service App](https://github.com/users/darekf77/projects/7): Open-source isomorphic cloud service (similar to Firebase, Azure, AWS - but using only isomorphic code) with electron app for local development.
-  + [Taon / Framework & UI](https://github.com/users/darekf77/projects/4): Elegant TypeScript framework for isomorphic code.
-  + [Taon / Auth & Payments](https://github.com/users/darekf77/projects/14): Base modules for isomorphic online business applications.
+My open source projects:
+- https://taon.dev Framework/Cli/Cloud ([github project board](https://github.com/users/darekf77/projects/18))
+    + CLI for handling isomorphic TypeScript projects as simply as possible (with VSCode integration).
+    + Open-source isomorphic cloud-service with electron app for local development.
+    + Elegant TypeScript framework for isomorphic code.
+    + Base modules for isomorphic online business applications/services.
   
-- https://darekf77.github.io/application-quiz (Angular v16, NgRx, NgRx Router, TypeOrm)
+- https://darekf77.github.io/application-quiz (Angular v16, NgRx, NgRx Router, TypeOrm sql.js backend in browser)
 - https://codete.github.io/codete-rxjs-quick-start  (Angular v16, RxJS)
-- https://codete.github.io/codete-ngrx-quick-start (Angular v16, NgRx, TypeOrm)
+- https://codete.github.io/codete-ngrx-quick-start (Angular v16, NgRx, TypeOrm sql.js backend in browser)
 - https://darekf77.github.io/static-columns
 - https://darekf77.github.io/bs4-breakpoint
 
