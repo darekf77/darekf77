@@ -18,7 +18,7 @@ My open source projects:
     + Open-source isomorphic cloud-service with electron app for local development.
     + Elegant TypeScript framework for isomorphic code.
     + Base modules for isomorphic online business applications/services.
-    + 7 years of my Isomorphic TypeScirpt research (already 50k lines of open source code)
+    + Already 50k lines of open source code
     + [Github project board](https://github.com/users/darekf77/projects/18)
   
 - https://darekf77.github.io/application-quiz (Angular v16, NgRx, NgRx Router, TypeOrm sql.js backend in browser)
