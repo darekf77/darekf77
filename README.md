@@ -13,9 +13,9 @@ My blog posts:
 - [NgRx Quick Introduction](https://web.archive.org/web/20230329031539/https://codete.com/blog/ngrx-quick-introduction)
 
 My open source projects:
-- [Taon.dev](https://taon.dev) - Framework/Cli/Cloud 
+- [Taon.dev](https://taon.dev) - fully open-source framework/CLI/cloud.
     + CLI for handling isomorphic TypeScript projects as simply as possible (with VSCode integration).
-    + Open-source isomorphic cloud-service with electron app for local development.
+    + Isomorphic cloud-service with electron app for local development.
     + Elegant TypeScript framework for isomorphic code.
     + Base modules for isomorphic online business applications/services.
     + Already 50k lines of open source code
