@@ -19,7 +19,7 @@ My open source projects:
     + Elegant TypeScript framework for isomorphic code.
     + Core modules for isomorphic online business applications/services.
       
-Already 50k lines of open-source code.
+Already 60k lines of open-source code.
 [Github project board](https://github.com/users/darekf77/projects/18)
   
 - https://darekf77.github.io/application-quiz (Angular, NgRx, NgRx Router, TypeOrm sql.js backend in browser)
