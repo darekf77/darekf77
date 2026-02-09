@@ -22,7 +22,7 @@ My open source projects:
 Already 60k lines of open-source code.
 [Github project board](https://github.com/users/darekf77/projects/18)
 
-Taon Introduction video:
+Taon Introduction video:<br>
 [![Watch the video](https://img.youtube.com/vi/lp6FGX-rBr4/0.jpg)](https://youtu.be/lp6FGX-rBr4)
 <!-- [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
 
