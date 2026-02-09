@@ -21,6 +21,8 @@ My open source projects:
       
 Already 60k lines of open-source code.
 [Github project board](https://github.com/users/darekf77/projects/18)
+
+https://youtu.be/lp6FGX-rBr4
   
 - https://darekf77.github.io/application-quiz (Angular, NgRx, NgRx Router, TypeOrm sql.js backend in browser)
 - https://codete.github.io/codete-rxjs-quick-start  (Angular, RxJS)
