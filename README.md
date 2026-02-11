@@ -9,8 +9,9 @@ https://stackoverflow.com/users/1345101/dariusz-filipiak
 https://superuser.com/users/469101/dariusz-filipiak
 
 My blog posts:
-- [RxJs Quick Introduction With Examples For Beginner Level Angular Developers](https://web.archive.org/web/20230329031539/https://codete.com/blog/rx-js-quick-introduction-with-examples-for-beginner-level-angular-developers)
-- [NgRx Quick Introduction](https://web.archive.org/web/20230329031539/https://codete.com/blog/ngrx-quick-introduction)
+- [Medium](https://medium.com/@darekf77)
+- [(Old) RxJs Quick Introduction With Examples For Beginner Level Angular Developers](https://web.archive.org/web/20230329031539/https://codete.com/blog/rx-js-quick-introduction-with-examples-for-beginner-level-angular-developers)
+- [(Old) NgRx Quick Introduction](https://web.archive.org/web/20230329031539/https://codete.com/blog/ngrx-quick-introduction)
 
 My open source projects:
 - [Taon.dev](https://taon.dev) - A fully open-source framework/CLI/cloud.
