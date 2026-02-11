@@ -2,7 +2,7 @@
 
 Contact: dariusz@taon.dev 
 
-Summary: https://www.linkedin.com/in/filipiakdariusz/
+https://www.linkedin.com/in/filipiakdariusz/
 
 https://stackoverflow.com/users/1345101/dariusz-filipiak
 
