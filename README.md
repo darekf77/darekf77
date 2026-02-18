@@ -30,8 +30,6 @@ Taon Introduction video:<br>
 
   
 - https://darekf77.github.io/application-quiz (Angular, NgRx, NgRx Router, TypeOrm sql.js backend in browser)
-- https://codete.github.io/codete-rxjs-quick-start  (Angular, RxJS)
-- https://codete.github.io/codete-ngrx-quick-start (Angular, NgRx, TypeOrm sql.js backend in browser)
 - https://darekf77.github.io/static-columns
 - https://darekf77.github.io/bs4-breakpoint
 
