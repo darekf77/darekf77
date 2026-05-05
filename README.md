@@ -27,6 +27,10 @@ Taon Introduction video:<br>
 [![Watch the video](https://img.youtube.com/vi/lp6FGX-rBr4/0.jpg)](https://youtu.be/lp6FGX-rBr4)
 <!-- [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
 
+Angular vs React/Solid:<br> 
+[![Watch the video](https://img.youtube.com/vi/_e3dHpNHpdg/0.jpg)](https://youtu.be/_e3dHpNHpdg) 
+<!-- [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
+
 
   
 - https://darekf77.github.io/application-quiz (Angular, NgRx, NgRx Router, TypeOrm sql.js backend in browser)
