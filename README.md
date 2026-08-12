@@ -29,13 +29,20 @@ Taon Introduction video:<br>
   <img
     src="https://img.youtube.com/vi/lp6FGX-rBr4/maxresdefault.jpg"
     alt="Watch the video"
-    height="200"
+    height="250"
   />
 </a>
 <!-- [![Watch the video](https://img.youtube.com/vi/lp6FGX-rBr4/maxresdefault.jpg)](https://youtu.be/lp6FGX-rBr4) -->
 
 Angular vs React/Solid:<br> 
-[![Watch the video](https://img.youtube.com/vi/_e3dHpNHpdg/maxresdefault.jpg)](https://youtu.be/_e3dHpNHpdg) 
+<a href="https://youtu.be/_e3dHpNHpdg">
+  <img
+    src="https://img.youtube.com/vi/_e3dHpNHpdg/maxresdefault.jpg"
+    alt="Watch the video"
+    height="250"
+  />
+</a>
+<!-- [![Watch the video](https://img.youtube.com/vi/_e3dHpNHpdg/maxresdefault.jpg)](https://youtu.be/_e3dHpNHpdg) -->
 
 
   
