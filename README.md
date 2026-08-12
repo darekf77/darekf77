@@ -25,7 +25,14 @@ Already 60k lines of open-source code.
 <!-- [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
 
 Taon Introduction video:<br>
-[![Watch the video](https://img.youtube.com/vi/lp6FGX-rBr4/maxresdefault.jpg)](https://youtu.be/lp6FGX-rBr4)
+<a href="https://youtu.be/lp6FGX-rBr4">
+  <img
+    src="https://img.youtube.com/vi/lp6FGX-rBr4/maxresdefault.jpg"
+    alt="Watch the video"
+    height="200"
+  />
+</a>
+<!-- [![Watch the video](https://img.youtube.com/vi/lp6FGX-rBr4/maxresdefault.jpg)](https://youtu.be/lp6FGX-rBr4) -->
 
 Angular vs React/Solid:<br> 
 [![Watch the video](https://img.youtube.com/vi/_e3dHpNHpdg/maxresdefault.jpg)](https://youtu.be/_e3dHpNHpdg) 
