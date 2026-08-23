@@ -24,6 +24,18 @@ Already 60k lines of open-source code.
 [Github project board](https://github.com/users/darekf77/projects/18)
 <!-- [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
 
+Taon Cloudflare Update August 2026 video:<br>
+<a href="https://youtu.be/w7IypSkrVPw">
+  <img
+    src="https://img.youtube.com/vi/w7IypSkrVPw/maxresdefault.jpg"
+    alt="Watch the video"
+    height="250"
+  />
+</a>
+<!-- [![Watch the video](https://img.youtube.com/vi/lp6FGX-rBr4/maxresdefault.jpg)](https://youtu.be/lp6FGX-rBr4) -->
+
+https://youtu.be/
+
 Taon Introduction video:<br>
 <a href="https://youtu.be/lp6FGX-rBr4">
   <img
