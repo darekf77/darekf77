@@ -34,7 +34,7 @@ Taon Cloudflare Update August 2026 video:<br>
 </a>
 <!-- [![Watch the video](https://img.youtube.com/vi/lp6FGX-rBr4/maxresdefault.jpg)](https://youtu.be/lp6FGX-rBr4) -->
 
-https://youtu.be/
+
 
 Taon Introduction video:<br>
 <a href="https://youtu.be/lp6FGX-rBr4">
