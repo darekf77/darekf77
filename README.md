@@ -20,7 +20,7 @@ My open source projects:
     + Elegant TypeScript framework for isomorphic code.
     + Core modules for isomorphic online business applications/services.
       
-Already 60k lines of open-source code.
+Already > 100k lines of my open-source code.
 [Github project board](https://github.com/users/darekf77/projects/18)
 <!-- [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
 
